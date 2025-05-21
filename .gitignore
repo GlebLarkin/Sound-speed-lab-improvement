@@ -1,0 +1,8 @@
+build/
+cmake-build-debug/
+cmake-build-release/
+.idea/
+a.out
+*.gch
+*.zip
+.vscode/
